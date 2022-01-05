@@ -1,0 +1,47 @@
+
+body{
+ background-color: gray;
+}
+
+
+
+
+
+
+
+.stand{
+    border: 1px solid black;
+    width: 900px;
+    padding: 10px;
+    background-color: #4b504e;
+    line-height: 20px;
+    margin-left: 200px;
+    height: 1580px;
+}
+
+
+
+
+
+.garis{
+    padding-right: 20px;
+}
+
+.paragraf{
+
+padding-right: 20px;
+
+
+
+
+
+}
+
+.teks{
+    border-left: 1px solid black;
+    
+   background-color: rgb(68, 68, 68);
+   text-align: center;
+  margin-bottom: 600px;
+}
+
